@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryDecisionDiagram.iml" filepath="$PROJECT_DIR$/BinaryDecisionDiagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code for running/Code for running.iml" filepath="$PROJECT_DIR$/Code for running/Code for running.iml" />
+    </modules>
+  </component>
+</project>

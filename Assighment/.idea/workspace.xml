@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1a28163-7e01-4e99-9fa4-52c494b1099a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Data structure and algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/cody_history.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code for running/src/BinaryTree/avltree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code for running/src/BinaryTree/avltree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code for running/src/BinaryTree/redblacktree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code for running/src/BinaryTree/redblacktree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code for running/src/HashTable/quadraticprobing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code for running/src/HashTable/quadraticprobing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individual files/avltree.java" beforeDir="false" afterPath="$PROJECT_DIR$/individual files/avltree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individual files/quadraticprobing.java" beforeDir="false" afterPath="$PROJECT_DIR$/individual files/quadraticprobing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individual files/redblacktree.java" beforeDir="false" afterPath="$PROJECT_DIR$/individual files/redblacktree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjoxOTE5Mzk=" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lsf4D9QegMbYOV17C3r1HWMpUD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/study/2.semester/DSA/Data structure and algorithms/Assighment",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1a28163-7e01-4e99-9fa4-52c494b1099a" name="Changes" comment="" />
+      <created>1725973510612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725973510612</updated>
+      <workItem from="1725973512060" duration="12000" />
+      <workItem from="1725974762402" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
