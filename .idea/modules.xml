@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assighment/Assighment.iml" filepath="$PROJECT_DIR$/Assighment/Assighment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assighment.iml" filepath="$PROJECT_DIR$/Assignment/Assighment.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryDecisionDiagram/BinaryDecisionDiagram.iml" filepath="$PROJECT_DIR$/BinaryDecisionDiagram/BinaryDecisionDiagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryDecisionDiagram/Code for running/Code for running.iml" filepath="$PROJECT_DIR$/BinaryDecisionDiagram/Code for running/Code for running.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Assighment/Code for running/Code for running1.iml" filepath="$PROJECT_DIR$/Assighment/Code for running/Code for running1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Code for running/Code for running1.iml" filepath="$PROJECT_DIR$/Assignment/Code for running/Code for running1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data structure and algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data structure and algorithms.iml" />
     </modules>
   </component>
